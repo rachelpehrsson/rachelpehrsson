@@ -1,0 +1,45 @@
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "Rachel Pehrsson"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "avatar.png"
+  author = "Rachel Pehrsson"
+  description = "Rachel Pehrsson is a Computer Science and Studio Art student at the University of Virginia."
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "rachelpehrsson"
+  Email         = "rhp8rg@virginia.edu"
+  Twitter       = ""
+  LinkedIn      = "rachel-pehrsson"
+  Stackoverflow = ""
+
+## Main Menu
+[[menu.main]]
+  name = "projects"
+  weight = 100
+  identifier = "projects"
+  url = "/projects/"
+
+[[menu.main]]
+  name = "About Me"
+  identifier = "about"
+  weight = 200
+  url = "/about/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 400
+  url = "/resume/"

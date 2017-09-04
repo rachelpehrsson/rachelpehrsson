@@ -1,15 +1,23 @@
 name: Projects
 source:
   - icon: fa fa-github
-    description: Dynamic Quiz Distinguished Major Project
+    link: https://github.com/rachelpehrsson/DynamicQuiz
+    projectName: Dynamic Quiz Distinguished Major Project
+    description: Wrote automated quiz system using HTML, CSS, and JavaScript that dynamically adds review material and extra questions depending on the student’s performance on quiz questions and use of hints. Will be used for Distinguished Major research on whether attenuated learning systems perform better than totally-student driven learning. 
+    
   - icon: fa fa-globe
-    description: Weather Patterns Neural Network Java Program for Navy
+    projectName: Weather Tracking with Machine Learning
+    description: Java program to filter out noise and unwanted data from radar trackings of cloud patterns. It uses a neural network algorithm to analyze numerical readings within thousands of radar pulses, detect areas previously hand-marked as unwanted, and then use the generated machine to process new data files. Worked on as part of the NREIP internship at the Dahlgren Naval Warfare Center. 
   - icon: fa fa-globe
-    description: Rachel Hallie Art
-  - icon: fa fa-globe
-    description: Point Art Program
-
+    link: https://rachelhallieart.com 
+    projectName: Rachel Hallie Art and Design (Coming Soon!)
+    description: Website to showcase my paintings and digital design work. I specialize in acrylics and digital painting. 
+  - icon: fa fa-github
+    projectName: Point Art Program
+    description: MATLAB program to create computer generated "point art." Reads in an image,  converts it to black and white, and then analyzes the color value to recreate it in the style of an ink pen. 
   - icon: fa fa-wordpress
-    description: Students for Individual Liberty site. I designed the logo and maintain the site for the club. 
+    link: https://silatuva.wordpress.com
+    projectName: SIL Website
+    description: Website and blog for the club Students for Individual Liberty at UVA.
 
  

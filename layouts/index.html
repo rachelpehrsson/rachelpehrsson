@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      {{ partial "header" . }}
+      <section id="about">
+        <div class="container">
+        <div class="avatar">
+          <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+        </div>
+        <h3>I'm <strong>{{ .Site.Params.author }}</strong>, a Computer Science and Studio Art major at the <strong>University of Virginia</strong>.</h3>
+        <h3>My experience and interests include Java programming, web and promotional design, and educational materials. When I'm not coding or painting, I can be found singing and arranging in Ektaal, UVA's only Bollywood fusion a capella group, reading history books, or learning Hindi.</h3>
+        <h3>Have a look at some of my working <a href="{{ .Site.BaseURL }}projects/"> projects</a>.</h3>
+        <h3>For a more complete overview, please see my academic &amp; professional <a href="https://demo.nurlan.co/hugo-vitae/">resume</a>, or my <a href="{{ .Site.BaseURL }}about/">about me</a> for a complete list of skills.</h3>
+        <h3>Contact me at <a href="mailto:{{ .Site.Params.Social.Email }}">rhp8rg@virginia.edu</a>.</h3>
+
+<h3><strong>Wish to see my paintings or need design commissions? Please visit my art site (under construction) at <a href="https://rachelhallieart.com">Rachel Hallie Art</a>.</h3>
+        {{ partial "social.html" . }}
+        </div>
+      </section>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

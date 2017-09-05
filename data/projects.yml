@@ -14,6 +14,7 @@ source:
     description: Website to showcase my paintings and digital design work. I specialize in acrylics and digital painting. 
   - icon: fa fa-github
     projectName: Point Art Program
+    link: https://github.com/rachelpehrsson/Point-Art
     description: MATLAB program to create computer generated "point art." Reads in an image,  converts it to black and white, and then analyzes the color value to recreate it in the style of an ink pen. 
   - icon: fa fa-wordpress
     link: https://silatuva.wordpress.com

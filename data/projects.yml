@@ -1,26 +1,28 @@
-name: Projects
+namel: Projects
 source:
- - icon: fa fa-github
-    link: https://github.com/UVA-CS4720-F17/final-project-final-spearow
-    projectName: SmartLang App
-    description: Android app to put the power of language learning in the hands of the student. They can record their own vocabulary, find their own listening media that interests them, and take photos of anything they see that can be helpful for any language of their chosing. 
-    
+  - icon: fa fa-globe
+    link: http://rachelhallieart.com/
+    projectName: Rachel Hallie Art and Design
+    description: Website to showcase my paintings and digital design work. Created with Hugo, HTML, CSS, and Javascript. Deployed with Amazon Web Services. I specialize in acrylics and digital painting.
+  - icon: fa fa-github
+    link: https://github.com/rachelpehrsson/SmartLang
+    projectName: SmartLang App 
+    description: Android app to allow for self-driven language learning by having the user save their own vocabularly and media. 
+
   - icon: fa fa-github
     link: https://github.com/rachelpehrsson/DynamicQuiz
     projectName: Dynamic Quiz Distinguished Major Project
-    description: Wrote automated quiz system using HTML, CSS, and JavaScript that dynamically adds review material and extra questions depending on the student’s performance on quiz questions and use of hints. Will be used for Distinguished Major research on whether attenuated learning systems perform better than totally-student driven learning. 
-    
+    description: Wrote automated quiz system using HTML, CSS, PHP, and JavaScript that dynamically adds review material and extra questions depending on the student’s performance on quiz questions and use of hints. Stored data with MySQL. Used for Distinguished Major research on whether attenuated learning systems perform better than totally-student driven learning. 
+ 
   - icon: fa fa-globe
     projectName: Weather Tracking with Machine Learning
     description: Java program to filter out noise and unwanted data from radar trackings of cloud patterns. It uses a neural network algorithm to analyze numerical readings within thousands of radar pulses, detect areas previously hand-marked as unwanted, and then use the generated machine to process new data files. Worked on as part of the NREIP internship at the Dahlgren Naval Warfare Center. 
-  - icon: fa fa-globe
-    link: https://rachelhallieart.com 
-    projectName: Rachel Hallie Art and Design (Coming Soon!)
-    description: Website to showcase my paintings and digital design work. I specialize in acrylics and digital painting. 
+
   - icon: fa fa-github
     projectName: Point Art Program
     link: https://github.com/rachelpehrsson/Point-Art
     description: MATLAB program to create computer generated "point art." Reads in an image,  converts it to black and white, and then analyzes the color value to recreate it in the style of an ink pen. 
+
   - icon: fa fa-wordpress
     link: https://silatuva.wordpress.com
     projectName: SIL Website

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rachel Pehrsson</title>
-    <link>https://example.com/categories/</link>
+    <link>http://people.virginia.edu/~rhp8rg/categories/</link>
     <description>Recent content in Categories on Rachel Pehrsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.virginia.edu/~rhp8rg/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Misc</title>
-      <link>https://example.com/categories/misc/</link>
+      <link>http://people.virginia.edu/~rhp8rg/categories/misc/</link>
       <pubDate>Wed, 09 Aug 2017 16:58:58 -0500</pubDate>
       
-      <guid>https://example.com/categories/misc/</guid>
+      <guid>http://people.virginia.edu/~rhp8rg/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/categories/projects/</link>
+      <link>http://people.virginia.edu/~rhp8rg/categories/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://example.com/categories/projects/</guid>
+      <guid>http://people.virginia.edu/~rhp8rg/categories/projects/</guid>
       <description></description>
     </item>
     

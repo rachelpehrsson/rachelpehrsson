@@ -3,46 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>http://people.virginia.edu/~rhp8rg/resume/</loc>
+    <lastmod>2017-09-05T03:15:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/about/</loc>
     <lastmod>2017-08-09T16:58:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/projects/</loc>
+    <loc>http://people.virginia.edu/~rhp8rg/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/misc/</loc>
-    <lastmod>2017-08-09T16:58:58-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/misc/</loc>
     <lastmod>2017-08-09T16:58:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>http://people.virginia.edu/~rhp8rg/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/</loc>
+    <lastmod>2017-09-05T03:15:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.virginia.edu/~rhp8rg/tags/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>

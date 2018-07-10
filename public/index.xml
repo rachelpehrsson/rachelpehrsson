@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachel Pehrsson</title>
-    <link>https://example.com/</link>
+    <link>http://people.virginia.edu/~rhp8rg/</link>
     <description>Recent content on Rachel Pehrsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Aug 2017 16:58:58 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 03:15:46 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.virginia.edu/~rhp8rg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resume</title>
+      <link>http://people.virginia.edu/~rhp8rg/resume/</link>
+      <pubDate>Tue, 05 Sep 2017 03:15:46 -0400</pubDate>
+      
+      <guid>http://people.virginia.edu/~rhp8rg/resume/</guid>
+      <description>Link to my professional resume</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
-      <link>https://example.com/about/</link>
+      <link>http://people.virginia.edu/~rhp8rg/about/</link>
       <pubDate>Wed, 09 Aug 2017 16:58:58 -0500</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>My name is Rachel Pehrssona and I am now in my 4th year at the University of Virginia, studying Computer Science and Studio Art in the College of Arts and Sciences. I am currently working on my Distinguished Major project in the area of educational software, which is explained more in length in my projects section.
+      <guid>http://people.virginia.edu/~rhp8rg/about/</guid>
+      <description>My name is Rachel Pehrsson. I am a recent graduate of the University of Virginia, with degrees in Computer Science and Studio Art from the College of Arts and Sciences. I completed my Distinguished Major in the area of educational software, developing a dynamic quiz system to perform research on the effectiveness of dynamic online learning systems.
 In my free time, I enjoy painting, writing, listening to music (always on the hunt for new arrangements!</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>http://people.virginia.edu/~rhp8rg/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://example.com/projects/</guid>
+      <guid>http://people.virginia.edu/~rhp8rg/projects/</guid>
       <description></description>
     </item>
     

@@ -6,23 +6,23 @@ title = "About Me"
 
 +++
 
-My name is Rachel Pehrsson.   I am a recent graduate of the University of Virginia, with degrees in Computer Science and Studio Art from the College of Arts and Sciences. I completed my Distinguished Major in the area of educational software, developing a dynamic quiz system to perform research on the effectiveness of dynamic online learning systems.
+My name is Rachel Pehrsson. I am a front-end programmer at [Sapio Sciences LLC](https://sapiosciences.com) in York, PA. In 2018, I graduated from the University of Virginia with degrees in Computer Science and Studio Art. My passions include web development, Edtech, illustration, and making your company's dynamically generated PDFs look very swanky. 
 
-In my free time, I enjoy painting, writing, listening to music (always on the hunt for new arrangements!), and reading comic books. 
+In my free time, I enjoy painting, writing, swing dancing, listening to music, reading comic books, and playing with my cat, Toby. He's the charmer of the household.  
 
 ### Areas of experience in computer science:
 
+- Java
+- GWT 
 - HTML
 - CSS
 - JavaScript
+- PHP
 - MySQL
-- Java 
-- C++
 
 ### Areas of experience in design
 
-- Adobe products: Illustrator, Photoshop, After Effects, Premiere 
-- Maya animation
+- Adobe products: Illustrator, Photoshop, Premiere 
 - Traditional painting and sketching
 
 ### Other

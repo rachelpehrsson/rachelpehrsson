@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Misc on Rachel Pehrsson</title>
+    <title>misc on Rachel Pehrsson</title>
     <link>http://people.virginia.edu/~rhp8rg/categories/misc/</link>
-    <description>Recent content in Misc on Rachel Pehrsson</description>
+    <description>Recent content in misc on Rachel Pehrsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 09 Aug 2017 16:58:58 -0500</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Wed, 09 Aug 2017 16:58:58 -0500</pubDate>
       
       <guid>http://people.virginia.edu/~rhp8rg/about/</guid>
-      <description>My name is Rachel Pehrsson. I am a recent graduate of the University of Virginia, with degrees in Computer Science and Studio Art from the College of Arts and Sciences. I completed my Distinguished Major in the area of educational software, developing a dynamic quiz system to perform research on the effectiveness of dynamic online learning systems.
-In my free time, I enjoy painting, writing, listening to music (always on the hunt for new arrangements!</description>
+      <description>My name is Rachel Pehrsson. I am a front-end programmer at Sapio Sciences LLC in York, PA. In 2018, I graduated from the University of Virginia with degrees in Computer Science and Studio Art. My passions include web development, Edtech, illustration, and making your company&amp;rsquo;s dynamically generated PDFs look very swanky.
+In my free time, I enjoy painting, writing, swing dancing, listening to music, reading comic books, and playing with my cat, Toby.</description>
     </item>
     
   </channel>

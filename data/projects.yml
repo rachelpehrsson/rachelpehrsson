@@ -1,13 +1,13 @@
 namel: Projects
 source:
   - icon: fa fa-globe
+    link: http://www.foodforthefourth.org/
+    projectName: Food for the Fourth Website
+    description: Single page static site written with AngularJS to showcase Food for the Fourth, an organization I started to promote increased food bank donations in summer months. 
+  - icon: fa fa-globe
     link: http://www.veloxity.com/
     projectName: Veloxity CRM Website
     description: Website for startup CRM service Veloxity. Created using HTML, JavaScript, CSS, and PHP. Features original illustrations drawn in Adobe Photoshop and Illustrator, responsive layouts, an integrated WordPress blog, and a Zendesk help center.
-  - icon: fa fa-github
-    link: https://github.com/rachelpehrsson/FoodForFourthSite
-    projectName: Food for the Fourth
-    description: In progress. Single page static site written with AngularJS to showcase Food for the Fourth, an organization I started to promote increased food bank donations in summer months. 
   - icon: fa fa-globe
     link: http://rachelhallieart.com/
     projectName: Rachel Hallie Art and Design
